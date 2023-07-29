@@ -1,0 +1,8 @@
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\bin\Debug\MainProject2_Section8.exe.config
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\bin\Debug\MainProject2_Section8.exe
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\bin\Debug\MainProject2_Section8.pdb
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\obj\Debug\MainProject2_Section8.csproj.AssemblyReference.cache
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\obj\Debug\MainProject2_Section8.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\obj\Debug\MainProject2_Section8.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\obj\Debug\MainProject2_Section8.exe
+D:\SimpliLearn\Projects\MainProject2_Section8\MainProject2_Section8\obj\Debug\MainProject2_Section8.pdb
